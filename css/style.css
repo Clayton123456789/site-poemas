@@ -33,7 +33,7 @@ a:hover {
     text-decoration: underline;
 }
 section {
-    padding-left: 100px;
+    padding-left: 50px;
     padding-top: 10vh;
     padding-bottom: 10vh;
     font-family: 'Satisfy', cursive;
@@ -42,6 +42,7 @@ section {
 section p {
     line-height: 2em;
     display: inline-block;
+    text-align: justify;
     
    
 }
