@@ -33,14 +33,15 @@ a:hover {
     text-decoration: underline;
 }
 section {
-    padding-left: 50px;
+    padding-left: 30px;
     padding-top: 10vh;
     padding-bottom: 10vh;
     font-family: 'Satisfy', cursive;
-    font-size: 2em;
+    font-size: 1.5em;
+    
 }
 section p {
-    line-height: 2em;
+    
     display: inline-block;
     text-align: justify;
     
