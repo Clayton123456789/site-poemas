@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Permanent+Marker&family=Roboto:wght@300&family=Satisfy&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    min-height: 100%;
+}
+header {
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+header h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+}
+header p {
+    margin-top: 20px;
+    padding-bottom: 40px;
+}
+header p a {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+section {
+    padding-left: 100px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    font-family: 'Satisfy', cursive;
+    font-size: 2em;
+}
+section p {
+    line-height: 2em;
+    display: inline-block;
+    
+   
+}
+section.img  {
+    background-color: rgba(0, 0, 0, 0.185);
+    
+    
+}
+section#fig01 {
+    background-image: url('../imagens/pexels-nikita-nikitin-101023195.jpg');
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+section#fig02 {
+    background-image: url('../imagens/pexels01.jpg');
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.384);
+   
+}
+footer {
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+footer p {
+    color: white;
+    text-align: center;
+}
+footer a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+    
